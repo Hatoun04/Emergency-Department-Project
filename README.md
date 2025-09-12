@@ -9,7 +9,7 @@ and optimize hospital resource allocation**.
 ---
 
 ## Dataset
-- Source: [[Kaggle Emergency Department Dataset](#) ](https://www.kaggle.com/datasets/rivalytics/er-wait-time?utm_source=chatgpt.com&select=ER+Wait+Time+Dataset.csv) 
+- Source: [https://www.kaggle.com/datasets/rivalytics/er-wait-time?utm_source=chatgpt.com&select=ER+Wait+Time+Dataset.csv]
 - Contains daily ED visit records with features such as date, time, and patient volume.  
 - Preprocessing includes handling missing values and normalizing time series data.  
 
