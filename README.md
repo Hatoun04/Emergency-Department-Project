@@ -23,3 +23,11 @@ Clone the repository and install dependencies:
 git clone https://github.com/Hatoun04/Emergency-Department-Project.git
 cd Emergency-Department-Project
 pip install -r requirements.txt
+```
+
+### project team: 
+dhai almulla
+amirah mohsen
+yara alraga
+hatoun almogherah
+bdriah fakhurji
