@@ -26,8 +26,8 @@ pip install -r requirements.txt
 ```
 
 ### project team: 
-dhai almulla
-amirah mohsen
-yara alraga
-hatoun almogherah
-bdriah fakhurji
+- dhai almulla
+- amirah mohsen
+- yara alraga
+- hatoun almogherah
+- bdriah fakhurji
